@@ -4,6 +4,8 @@
 
 This project is a feature-rich e-commerce platform designed to provide a seamless shopping experience for users while offering comprehensive management tools for administrators. It caters to both casual visitors and registered users, with functionalities tailored to enhance usability and efficiency.
 
+[Watch the video on Google Drive](https://drive.google.com/drive/folders/1HhdkyhEhhW5VfZw6Zq1lnmbKzPDOkY3s?usp=sharing)
+
 ## Features
 
 ### General Features
