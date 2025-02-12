@@ -63,7 +63,7 @@ The platform includes a robust admin dashboard to facilitate effective managemen
 
 1. **Clone the Repository:**
    ```bash
-   git clone
+   git clone https://github.com/esraarabee1/Click-Market.git
    ```
 2. **Install Dependencies:**
    ```bash
@@ -73,8 +73,7 @@ The platform includes a robust admin dashboard to facilitate effective managemen
    ```bash
    npm start
    ```
-4. **Access the Admin Dashboard:**
-   Use the designated admin credentials to log in and manage the platform.
+
 
 ---
 
@@ -86,16 +85,5 @@ The platform includes a robust admin dashboard to facilitate effective managemen
 
 ---
 
-## Future Enhancements
-
-- Integration with multiple payment gateways.
-- Real-time notifications for users regarding order updates.
-- Advanced analytics for the admin dashboard to monitor sales and user activity.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with detailed explanations of your changes.
-
----
 
 This project is designed to blend user-friendly shopping experiences with powerful admin tools, ensuring a robust and scalable e-commerce solution.
