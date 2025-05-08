@@ -74,16 +74,28 @@ The platform includes a robust admin dashboard to facilitate effective managemen
    npm start
    ```
 
-
 ---
 
 ## Project Screenshots
 
 ### Pages Screenshot
 
-![Pages From Project](./src/images/p3.png)
+![Pages From Project](<./src/images/login%20(2).png>)
+
+![Pages From Project](<./src/images/home%20(2).png>)
+
+![Pages From Project](./src/images/adminadd.png)
+
+![Pages From Project](./src/images/adminprods.png)
+
+![Pages From Project](<./src/images/cart%20(2).png>)
+
+![Pages From Project](./src/images/prods.png)
+
+![Pages From Project](./src/images/onep.png)
+
+![Pages From Project](./src/images/copon.png)
 
 ---
-
 
 This project is designed to blend user-friendly shopping experiences with powerful admin tools, ensuring a robust and scalable e-commerce solution.
